@@ -1,3 +1,9 @@
+## Updates on 2024-09-04
+
+### HDP Program
+- **Hash:** `0x01f77febac1a08346546520d148ca8beb99cbb9b26f2f3030d14934003f1f88b`
+- [View commit](https://github.com/HerodotusDev/hdp-cairo/commit/159cda2c9c73c227a30dae4e9e2bdb2da8d865c2)
+
 ## Updates on 2024-09-03
 
 ### HDP Program
