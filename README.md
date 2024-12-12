@@ -1,3 +1,13 @@
+## Updates on 2024-12-12
+
+### HDP Program
+- **Hash:** `0x0314f31d6e99e2ee7f7045d9b5f1676f413c103746bbbcefefafdbc5428c08bd`
+- [View commit](https://github.com/HerodotusDev/hdp-cairo/commit/49a5199e8475a41dc4fe05a2fd24197d6fe3da53)
+
+### Contract Dry Run
+- **Hash:** `0x01b629a6f72198481b4b5e1be5d7371c01fd07ca48f67c9fe221dffcc5d955dd`
+- [View commit](https://github.com/HerodotusDev/hdp-cairo/commit/49a5199e8475a41dc4fe05a2fd24197d6fe3da53)
+
 ## Updates on 2024-12-06
 
 ### HDP Program
